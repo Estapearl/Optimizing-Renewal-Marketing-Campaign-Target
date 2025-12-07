@@ -8,7 +8,7 @@
 ---
 ## Executive Summary
 
-OptiSecure Insurance Ltd., an insurace firm in the United Kingdom faced stagnant policy renewal rates especially among digitally acquired customers. Despite running repeated email and SMS campaigns, the company lacked clarity on which customers were most likely to renew, leading to inefficient targeting and increased marketing costs.
+OptiSecure Insurance Ltd., an insurance firm in the United Kingdom faced stagnant policy renewal rates especially among digitally acquired customers. Despite running repeated email and SMS campaigns, the company lacked clarity on which customers were most likely to renew, leading to inefficient targeting and increased marketing costs.
 
 I developed a customer segmentation and renewal scoring framework that combined household demographics, purchase behavior, digital engagement, and past campaign responses to rank customers by renewal likelihood. This enabled the marketing team to focus outreach on high-potential customers while reducing unnecessary contact with low-response segments.
 
