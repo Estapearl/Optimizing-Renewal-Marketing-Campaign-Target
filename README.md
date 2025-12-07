@@ -26,6 +26,7 @@ The project aimed to help the company:
 2. **Improve targeting efficiency** by focusing marketing efforts where they would have the greatest impact.  
 3. **Provide a foundation for data-driven campaigns** that could be scaled and refined over time.
 
+---
 ## Data Overview
 
 The analysis used a multi-sheet dataset provided by OptiSecure Insurance Ltd. It included three main sheets:
@@ -36,3 +37,20 @@ The analysis used a multi-sheet dataset provided by OptiSecure Insurance Ltd. It
 
 > For privacy reasons, no real customer data is included.  
 > 🔗 [View Sample Dataset](https://docs.google.com/spreadsheets/d/11Lkdclpz9Ci3eJsTVPPX6OgWQSaeYkwPKeizICnoGs0/edit?usp=sharing)
+
+---
+## Analytical Approach
+
+To improve campaign targeting, a structured, data-driven approach was followed:
+
+1. **Data Preparation** – Cleaned and merged customer, purchase, and campaign datasets into a single analysis-ready file. Derived key fields like age, tenure, family size, total spend, and cumulative campaign responses.  
+
+2. **Segmentation** – Grouped customers based on household demographics (marital status, children at home) and purchase behavior patterns to identify meaningful segments.  
+
+3. **Feature Normalization & Scoring** – Standardized numeric metrics (spend, recency, web/catalog purchases, campaign responses) to make them comparable. Developed a scoring model that ranks customers by likelihood to renew.  
+
+4. **Prioritization** – Classified customers into High, Medium, and Low priority groups based on their scores, enabling focused outreach for maximum impact.  
+
+5. **Visualization & Insights** – Built interactive dashboards in Looker Studio to provide stakeholders with clear visibility of customer segments, renewal likelihood, and campaign readiness.  
+
+> This approach helped the marketing team focus efforts on high-potential customers, reduce wasted spend, and improve overall campaign efficiency.
