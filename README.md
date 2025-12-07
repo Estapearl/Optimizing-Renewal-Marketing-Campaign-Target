@@ -56,18 +56,4 @@ To improve campaign targeting, a structured, data-driven approach was followed:
 > This approach helped the marketing team focus efforts on high-potential customers, reduce wasted spend, and improve overall campaign efficiency.
 
 ---
-<table width="100%">
-  <tr>
-    <td align="left" width="50%" style="vertical-align: top;">
-      <img src="Campaign%20response%20by%20income.png" 
-           alt="Campaign response rate by income band" 
-           width="95%">
-    </td>
 
-    <td align="right" width="50%" style="vertical-align: top;">
-      <img src="Campaign%20response%20by%20household%20type.png" 
-           alt="Campaign response rate by household type" 
-           width="95%">
-    </td>
-  </tr>
-</table>
