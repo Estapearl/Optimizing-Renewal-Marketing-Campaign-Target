@@ -54,3 +54,15 @@ To improve campaign targeting, a structured, data-driven approach was followed:
 5. **Visualization & Insights** – Built interactive dashboards in Looker Studio to provide stakeholders with clear visibility of customer segments, renewal likelihood, and campaign readiness.  
 
 > This approach helped the marketing team focus efforts on high-potential customers, reduce wasted spend, and improve overall campaign efficiency.
+
+---
+<table>
+  <tr>
+    <td width="50%">
+      <img src="Campaign response by income.png" width="100%">
+    </td>
+    <td width="50%">
+      <img src="Campaign response by household type.png" width="100%">
+    </td>
+  </tr>
+</table>
