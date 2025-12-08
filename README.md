@@ -60,11 +60,11 @@ To improve campaign targeting, a structured, data-driven approach was followed:
   <tr>
     <td width="50%" align="center">
       <img src="./campaign_response_income.png" width="95%">
-      <br><strong>Campaign Response by Income Band</strong>
+      <br><strong>Campaign Response by Income Band in %</strong>
     </td>
     <td width="50%" align="center">
       <img src="./campaign_response_household.png" width="95%">
-      <br><strong>Campaign Response by Household Type</strong>
+      <br><strong>Campaign Response by Household Type in %</strong>
     </td>
   </tr>
 </table>
