@@ -64,14 +64,14 @@ A customer was counted as having **responded** if they accepted a renewal offer.
 
 Three measures were used to assess performance:
 
-- **Response Rate**  
-  Used to understand how effectively different customer groups engaged with renewal campaigns, based on the proportion of customers within each segment who responded.
+- **Response Rate:** Used to understand how effectively different customer groups engaged with renewal campaigns, based on the proportion of customers within each segment
+   who responded.
 
-- **Customer Score**  
-  Used to rank individual customers based on observed behavior, including purchase activity, digital engagement, and past campaign participation. Higher scores indicated customers with stronger likelihood to respond to renewal communications.
+- **Customer Score:** Used to rank individual customers based on observed behavior, including purchase activity, digital engagement, and past campaign participation. Higher
+   scores indicated customers with stronger likelihood to respond to renewal communications.
 
-- **Segment-Level Performance**  
-  Used to compare response behavior across income bands and household types, enabling identification of segments that consistently showed higher or lower renewal engagement.
+- **Segment-Level Performance:** Used to compare response behavior across income bands and household types, enabling identification of segments that consistently showed
+  higher or lower renewal engagement.
 
 Together, these measures provided a clear and consistent basis for interpreting results and prioritizing renewal campaign targeting.
 
