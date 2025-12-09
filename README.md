@@ -56,24 +56,24 @@ To improve campaign targeting, a structured, data-driven approach was followed:
 > This approach helped the marketing team focus efforts on high-potential customers, reduce wasted spend, and improve overall campaign efficiency.
 
 ---
-## Key Metrics & Evaluation Framework
+## How Renewal Performance Was Measured
 
-Renewal campaign performance was assessed using a consistent set of metrics designed to support practical targeting and decision-making.
+Renewal performance was measured using a small set of indicators designed to support clear targeting decisions and campaign evaluation.
 
-A **campaign response** was defined as a customer accepting a renewal offer. This definition was applied consistently across the analysis and used as the primary measure of renewal engagement.
+A customer was counted as having **responded** if they accepted a renewal offer. This definition was applied consistently and used as the primary signal of renewal engagement.
 
-Customer performance was evaluated at both the individual and segment level:
+Three measures were used to assess performance:
 
 - **Response Rate**  
-  Used to measure how effectively different customer groups engaged with renewal campaigns.
+  Used to understand how effectively different customer groups engaged with renewal campaigns, based on the proportion of customers within each segment who responded.
 
 - **Customer Score**  
-  Used to rank customers based on observed engagement signals, including purchase behavior, digital interaction, and past campaign participation. Customers with higher scores were prioritized for renewal outreach.
+  Used to rank individual customers based on observed behavior, including purchase activity, digital engagement, and past campaign participation. Higher scores indicated customers with stronger likelihood to respond to renewal communications.
 
 - **Segment-Level Performance**  
-  Used to compare performance across income bands and household types, identifying segments that consistently showed stronger renewal behavior.
+  Used to compare response behavior across income bands and household types, enabling identification of segments that consistently showed higher or lower renewal engagement.
 
-These metrics provided a practical framework for identifying high-value customer segments and informing renewal targeting decisions used throughout this engagement.
+Together, these measures provided a clear and consistent basis for interpreting results and prioritizing renewal campaign targeting.
 
 ---
 <table width="100%">
