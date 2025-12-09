@@ -56,6 +56,26 @@ To improve campaign targeting, a structured, data-driven approach was followed:
 > This approach helped the marketing team focus efforts on high-potential customers, reduce wasted spend, and improve overall campaign efficiency.
 
 ---
+## Key Metrics & Evaluation Framework
+
+Renewal campaign performance was assessed using a consistent set of metrics designed to support practical targeting and decision-making.
+
+A **campaign response** was defined as a customer accepting a renewal offer. This definition was applied consistently across the analysis and used as the primary measure of renewal engagement.
+
+Customer performance was evaluated at both the individual and segment level:
+
+- **Response Rate**  
+  Used to measure how effectively different customer groups engaged with renewal campaigns.
+
+- **Customer Score**  
+  Used to rank customers based on observed engagement signals, including purchase behavior, digital interaction, and past campaign participation. Customers with higher scores were prioritized for renewal outreach.
+
+- **Segment-Level Performance**  
+  Used to compare performance across income bands and household types, identifying segments that consistently showed stronger renewal behavior.
+
+These metrics provided a practical framework for identifying high-value customer segments and informing renewal targeting decisions used throughout this engagement.
+
+---
 <table width="100%">
   <tr>
     <td width="50%" align="center">
