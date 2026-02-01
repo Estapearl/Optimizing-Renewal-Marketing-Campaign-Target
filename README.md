@@ -1,9 +1,13 @@
-<div align="center">
+<h1>Optimizing Insurance Renewal Campaigns with Customer Insights</h1>
+<p><strong>A marketing analytics project focused on customer targeting, retention, and campaign effectiveness.</strong></p>
 
-# Optimizing Renewal Campaign Targeting Using Household and Purchase Behavior
-## Domain: Marketing Analytics | Customer Retention | Campaign Optimization
+<p><em>
+This project focuses on improving insurance policy renewal campaigns by helping marketing teams identify which customers are most likely to respond.  
+Using customer demographics, household composition, purchase behavior, and past campaign activity, I built a data-driven prioritization system that groups customers into High, Medium, and Low renewal potential.  
+The solution allows marketers to focus their efforts on customers who are most likely to renew, reducing wasted outreach and improving campaign effectiveness.  
+Results were validated using actual campaign response data and presented through interactive dashboards for decision-makers.
+</em></p>
 
-</div>
 
 ---
 ## Executive Summary
