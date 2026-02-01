@@ -26,7 +26,7 @@ As a result, a substantial portion of marketing spend was directed toward custom
 The marketing and retention teams lacked a clear, data-driven way to identify which customers were most likely to renew. Without customer-level prioritization, the business struggled to focus outreach effectively, optimize marketing spend, and improve overall renewal campaign performance.
 </p>
 
-<h2>Project Objectives</h2>
+<h2>Analysis Objectives</h2>
 
 <p>
 The objective of this analysis was to support more effective insurance renewal campaigns by introducing structure and clarity into how customers are targeted. Specifically, the project aimed to:
@@ -46,6 +46,31 @@ The objective of this analysis was to support more effective insurance renewal c
     Provide clear visibility into customer segments and campaign performance to support informed decision-making by marketing and retention stakeholders.
   </li>
 </ol>
+
+<h2>Data Overview</h2>
+
+<p>
+The analysis was based on customer-level data provided by OptiSecure Insurance, covering demographic attributes, purchase behavior, and historical campaign engagement. The data represents customers acquired through digital and non-digital channels and was structured across multiple related tables.
+</p>
+
+<p><strong>Key data components included:</strong></p>
+
+<ol>
+  <li>
+    <strong>Customer profile data</strong> — age, income band, marital status, household composition, and registration date. This provided demographic and household context that may influence renewal decisions.
+  </li>
+  <li>
+    <strong>Purchase and engagement behavior</strong> — spending patterns across product categories and purchase channels. These variables helped capture customer value, activity level, and interaction with the company.
+  </li>
+  <li>
+    <strong>Campaign response history</strong> — whether customers responded to previous marketing campaigns. This served as a key engagement signal for informing renewal likelihood.
+  </li>
+</ol>
+
+<p>
+To support the analysis, the datasets were cleaned, merged, and transformed into a single customer-level table. Additional fields such as customer tenure, total spend, and aggregated campaign responses were derived to better represent customer behavior over time.
+</p>
+
 
 
 
