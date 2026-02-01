@@ -5,7 +5,7 @@
 This project focuses on improving insurance policy renewal campaigns by helping marketing and retention teams identify which customers are most likely to respond.  
 Using customer demographics, household composition, purchase behavior, and past campaign activity, I built a data-driven prioritization system that groups customers into High, Medium, and Low renewal potential.  
 The solution allows the business to focus outreach on customers who are most likely to renew, reducing wasted communication and improving campaign effectiveness.  
-Results were validated using actual campaign response data and presented through interactive dashboards for decision-makers.
+Results were validated using actual campaign response data and presented through interactive dashboards for the marketing team.
 </em></p>
 
 
