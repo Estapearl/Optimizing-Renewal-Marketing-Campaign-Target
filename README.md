@@ -11,25 +11,11 @@ Results were validated using actual campaign response data and presented through
 <h2>Business Problem</h2>
 
 <p>
-OptiSecure Insurance relied on broad renewal campaigns to encourage customers to renew their policies. However, renewal response rates remained stagnant, particularly among digitally acquired customers.
-</p>
-
-<p>
-Because renewal campaigns were not targeted, a significant portion of marketing spend was directed toward customers who were unlikely to respond. This led to inefficient use of advertising budgets, increased campaign costs, and avoidable marketing waste.
-</p>
-
-<p>
-The marketing and retention teams lacked a clear, data-driven way to identify which customers were most likely to renew. As a result, the business struggled to prioritize outreach effectively, control marketing expenditure, and improve overall renewal campaign performance.
-</p>
-
-<h2>Business Problem</h2>
-
-<p>
 OptiSecure Insurance operates in a highly competitive market where policy renewals are critical to long-term revenue and customer lifetime value. Retaining existing customers is significantly more cost-effective than acquiring new ones, making renewal campaigns a key focus for the business.
 </p>
 
 <p>
-Despite running regular renewal campaigns across digital channels, OptiSecure experienced stagnant renewal response rates, particularly among digitally acquired customers. Campaigns were largely broad-based, with similar messages sent to all customers regardless of their likelihood to renew.
+Despite running regular renewal campaigns across digital channels, the company experienced stagnant renewal response rates, particularly among digitally acquired customers. Campaigns were largely broad-based, with similar messages sent to all customers regardless of their likelihood to renew.
 </p>
 
 <p>
