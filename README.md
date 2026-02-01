@@ -8,17 +8,20 @@ The solution allows the business to focus outreach on customers who are most lik
 Results were validated using actual campaign response data and presented through interactive dashboards for the marketing team.
 </em></p>
 
+<h2>Business Problem</h2>
+
 <p>
-OptiSecure Insurance relied on broad renewal campaigns to encourage customers to renew their policies. However, renewal response rates remained stagnant, especially among digitally acquired customers.
+OptiSecure Insurance relied on broad renewal campaigns to encourage customers to renew their policies. However, renewal response rates remained stagnant, particularly among digitally acquired customers.
 </p>
 
 <p>
-Because all customers were targeted in similar ways, a significant portion of marketing spend was directed toward customers who were unlikely to respond. This resulted in inefficient use of advertising budgets, higher campaign costs, and limited return on marketing investment.
+Because renewal campaigns were not targeted, a significant portion of marketing spend was directed toward customers who were unlikely to respond. This led to inefficient use of advertising budgets, increased campaign costs, and avoidable marketing waste.
 </p>
 
 <p>
-The marketing and retention teams lacked a clear way to identify which customers were most likely to renew, making it difficult to prioritize outreach, control marketing spend, and improve overall campaign effectiveness.
+The marketing and retention teams lacked a clear, data-driven way to identify which customers were most likely to renew. As a result, the business struggled to prioritize outreach effectively, control marketing expenditure, and improve overall renewal campaign performance.
 </p>
+
 
 
 
