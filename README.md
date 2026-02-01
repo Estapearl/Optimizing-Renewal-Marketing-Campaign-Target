@@ -22,7 +22,6 @@ Because renewal campaigns were not targeted, a significant portion of marketing 
 The marketing and retention teams lacked a clear, data-driven way to identify which customers were most likely to renew. As a result, the business struggled to prioritize outreach effectively, control marketing expenditure, and improve overall renewal campaign performance.
 </p>
 
-
 <h2>Business Problem</h2>
 
 <p>
@@ -40,6 +39,7 @@ As a result, a substantial portion of marketing spend was directed toward custom
 <p>
 The marketing and retention teams lacked a clear, data-driven way to identify which customers were most likely to renew. Without customer-level prioritization, the business struggled to focus outreach effectively, optimize marketing spend, and improve overall renewal campaign performance.
 </p>
+
 
 
 
