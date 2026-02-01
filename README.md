@@ -23,6 +23,23 @@ The marketing and retention teams lacked a clear, data-driven way to identify wh
 </p>
 
 
+<h2>Business Problem</h2>
+
+<p>
+OptiSecure Insurance operates in a highly competitive market where policy renewals are critical to long-term revenue and customer lifetime value. Retaining existing customers is significantly more cost-effective than acquiring new ones, making renewal campaigns a key focus for the business.
+</p>
+
+<p>
+Despite running regular renewal campaigns across digital channels, OptiSecure experienced stagnant renewal response rates, particularly among digitally acquired customers. Campaigns were largely broad-based, with similar messages sent to all customers regardless of their likelihood to renew.
+</p>
+
+<p>
+As a result, a substantial portion of marketing spend was directed toward customers who were unlikely to respond, leading to inefficient use of advertising budgets, increased campaign costs, and avoidable marketing waste.
+</p>
+
+<p>
+The marketing and retention teams lacked a clear, data-driven way to identify which customers were most likely to renew. Without customer-level prioritization, the business struggled to focus outreach effectively, optimize marketing spend, and improve overall renewal campaign performance.
+</p>
 
 
 
