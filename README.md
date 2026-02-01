@@ -71,75 +71,42 @@ The analysis was based on customer-level data provided by OptiSecure Insurance, 
 To support the analysis, the datasets were cleaned, merged, and transformed into a single customer-level table. Additional fields such as customer tenure, total spend, and aggregated campaign responses were derived to better represent customer behavior over time.
 </p>
 
+<h2>How Customers Were Evaluated</h2>
 
-Customer Profile
-   |
-   | (Customer ID)
-   |
-Purchase & Engagement  ----  Campaign Responses
+<p>
+Customers were evaluated based on how likely they were to respond positively to a policy renewal campaign. The evaluation focused on observable customer behavior and characteristics, rather than assumptions or single metrics.
+</p>
+
+<p><strong>Each customer was assessed across four main dimensions:</strong></p>
+
+<ol>
+  <li>
+    <strong>Engagement history</strong><br>
+    Customers who had previously responded to marketing campaigns were treated as more likely to engage again. Past campaign responses were used as a strong signal of renewal interest.
+  </li>
+  <li>
+    <strong>Customer value and activity</strong><br>
+    Spending behavior and purchase activity were used to understand how actively customers interacted with the company. Customers with higher and more consistent spending were considered more invested in the relationship.
+  </li>
+  <li>
+    <strong>Recency and relationship strength</strong><br>
+    How recently a customer engaged with the company, along with how long they had been a customer, was used to reflect relationship strength and current relevance.
+  </li>
+  <li>
+    <strong>Household and demographic context</strong><br>
+    Household composition, age group, and income band were included to capture life-stage and financial factors that influence renewal decisions.
+  </li>
+</ol>
+
+<p>
+These factors were combined to assign each customer a relative renewal likelihood score. Customers were then grouped into <strong>High</strong>, <strong>Medium</strong>, and <strong>Low</strong> renewal potential categories to support clear, actionable targeting decisions.
+</p>
 
 
 
----
-## Business Problem & Project Objectives
 
-### Business Problem
-OptiSecure Insurance Ltd. was facing challenges with policy renewals. Despite running multiple campaigns, renewal rates were stagnant, especially among digitally acquired customers. The marketing team lacked clear insights into customer behavior, making it difficult to prioritize outreach and allocate budget effectively. This inefficiency not only increased marketing costs but also risked lower customer retention and revenue growth.
 
-### Project Objectives
-The project aimed to help the company:  
-1. **Identify high-value customer segments** likely to renew their policies.  
-2. **Improve targeting efficiency** by focusing marketing efforts where they would have the greatest impact.  
-3. **Provide a foundation for data-driven campaigns** that could be scaled and refined over time.
 
----
-## Data Overview
-
-The analysis used a multi-sheet dataset provided by OptiSecure Insurance Ltd. It included three main sheets:
-
-1. **Customer Profile** – demographic information such as age, household composition, income, and registration date.  
-2. **Purchase Behavior** – spending across product categories (e.g., wine, meat, fruits) and purchase channels (web, catalog, store).  
-3. **Campaign Performance** – customer responses to previous marketing campaigns (AcceptedCmp1–5, Response).  
-
-> For privacy reasons, no real customer data is included.  
-> 🔗 [View Sample Dataset](https://docs.google.com/spreadsheets/d/11Lkdclpz9Ci3eJsTVPPX6OgWQSaeYkwPKeizICnoGs0/edit?usp=sharing)
-
----
-## Analytical Approach
-
-To improve campaign targeting, a structured, data-driven approach was followed:
-
-1. **Data Preparation** – Cleaned and merged customer, purchase, and campaign datasets into a single analysis-ready file. Derived key fields like age, tenure, family size, total spend, and cumulative campaign responses.  
-
-2. **Segmentation** – Grouped customers based on household demographics (marital status, children at home) and purchase behavior patterns to identify meaningful segments.  
-
-3. **Feature Normalization & Scoring** – Standardized numeric metrics (spend, recency, web/catalog purchases, campaign responses) to make them comparable. Developed a scoring model that ranks customers by likelihood to renew.  
-
-4. **Prioritization** – Classified customers into High, Medium, and Low priority groups based on their scores, enabling focused outreach for maximum impact.  
-
-5. **Visualization & Insights** – Built interactive dashboards in Looker Studio to provide stakeholders with clear visibility of customer segments, renewal likelihood, and campaign readiness.  
-
-> This approach helped the marketing team focus efforts on high-potential customers, reduce wasted spend, and improve overall campaign efficiency.
-
----
-## How Renewal Performance Was Measured
-
-Renewal performance was measured using a small set of indicators designed to support clear targeting decisions and campaign evaluation.
-
-A customer was counted as having **responded** if they accepted a renewal offer. This definition was applied consistently and used as the primary signal of renewal engagement.
-
-Three measures were used to assess performance:
-
-- **Response Rate:** Used to understand how effectively different customer groups engaged with renewal campaigns, based on the proportion of customers within each segment
-   who responded.
-
-- **Customer Score:** Used to rank individual customers based on observed behavior, including purchase activity, digital engagement, and past campaign participation. Higher
-   scores indicated customers with stronger likelihood to respond to renewal communications.
-
-- **Segment-Level Performance:** Used to compare response behavior across income bands and household types, enabling identification of segments that consistently showed
-  higher or lower renewal engagement.
-
-Together, these measures provided a clear and consistent basis for interpreting results and prioritizing renewal campaign targeting.
 
 ---
 <table width="100%">
