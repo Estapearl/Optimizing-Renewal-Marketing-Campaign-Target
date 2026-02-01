@@ -72,6 +72,11 @@ To support the analysis, the datasets were cleaned, merged, and transformed into
 </p>
 
 
+Customer Profile
+   |
+   | (Customer ID)
+   |
+Purchase & Engagement  ----  Campaign Responses
 
 
 
