@@ -26,17 +26,29 @@ As a result, a substantial portion of marketing spend was directed toward custom
 The marketing and retention teams lacked a clear, data-driven way to identify which customers were most likely to renew. Without customer-level prioritization, the business struggled to focus outreach effectively, optimize marketing spend, and improve overall renewal campaign performance.
 </p>
 
+<h2>Project Objectives</h2>
+
+<p>
+The objective of this analysis was to support more effective insurance renewal campaigns by introducing structure and clarity into how customers are targeted. Specifically, the project aimed to:
+</p>
+
+<ol>
+  <li>
+    Identify customers with a higher likelihood of renewing their policies by analyzing customer demographics, household characteristics, purchase behavior, and past campaign engagement.
+  </li>
+  <li>
+    Enable targeted campaign prioritization by grouping customers into High, Medium, and Low renewal potential segments, allowing marketing and retention teams to focus outreach where it is most likely to be effective.
+  </li>
+  <li>
+    Reduce inefficient marketing spend by limiting outreach to customers with low renewal likelihood and reallocating effort toward higher-impact segments.
+  </li>
+  <li>
+    Provide clear visibility into customer segments and campaign performance to support informed decision-making by marketing and retention stakeholders.
+  </li>
+</ol>
 
 
 
----
-## Executive Summary
-
-OptiSecure Insurance Ltd., an insurance firm in the United Kingdom faced stagnant policy renewal rates especially among digitally acquired customers. Despite running repeated email and SMS campaigns, the company lacked clarity on which customers were most likely to renew, leading to inefficient targeting and increased marketing costs.
-
-I developed a customer segmentation and renewal scoring framework that combined household demographics, purchase behavior, digital engagement, and past campaign responses to rank customers by renewal likelihood. This enabled the marketing team to focus outreach on high-potential customers while reducing unnecessary contact with low-response segments.
-
-The final solution delivered a clean, analysis-ready dataset and interactive dashboards in Looker Studio, giving stakeholders clear visibility into customer segments, renewal readiness, and campaign prioritization.
 
 ---
 ## Business Problem & Project Objectives
