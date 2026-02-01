@@ -102,6 +102,25 @@ Customers were evaluated based on how likely they were to respond positively to 
 These factors were combined to assign each customer a relative renewal likelihood score. Customers were then grouped into <strong>High</strong>, <strong>Medium</strong>, and <strong>Low</strong> renewal potential categories to support clear, actionable targeting decisions.
 </p>
 
+<h2>Results &amp; Validation</h2>
+
+<p>
+After customers were grouped into High, Medium, and Low renewal potential, actual campaign response data was used to evaluate whether the prioritization approach aligned with real customer behavior.
+</p>
+
+<p>
+Across the renewal campaign, <strong>667 customers responded</strong>, resulting in an overall response rate of approximately <strong>29.75%</strong>.
+</p>
+
+<p>
+Customers identified as <strong>High Priority</strong> accounted for <strong>347 of the 667 total responses</strong>, meaning that <strong>more than half of all campaign responses</strong> came from this segment alone. Within the High Priority group, the response rate was <strong>62%</strong>, which is more than double the overall campaign average.
+</p>
+
+<p>
+These results show that customers identified as High Priority responded far more often than other customers. This indicates that the evaluation approach correctly identified customers who were more likely to engage with the renewal campaign, allowing the business to focus outreach on the right customers and avoid unnecessary marketing spend.
+</p>
+
+
 
 
 
