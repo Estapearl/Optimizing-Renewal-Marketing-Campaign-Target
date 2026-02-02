@@ -57,13 +57,13 @@ The analysis was based on customer-level data provided by OptiSecure Insurance, 
 
 <ol>
   <li>
-    <strong>Customer profile data</strong> — age, income band, marital status, household composition, and registration date. This provided demographic and household context that may influence renewal decisions.
+    <strong>Customer profile data</strong>:age, income band, marital status, household composition, and registration date. This provided demographic and household context that may influence renewal decisions.
   </li>
   <li>
-    <strong>Purchase and engagement behavior</strong> — spending patterns across product categories and purchase channels. These variables helped capture customer value, activity level, and interaction with the company.
+    <strong>Purchase and engagement behavior</strong>:spending patterns across product categories and purchase channels. These variables helped capture customer value, activity level, and interaction with the company.
   </li>
   <li>
-    <strong>Campaign response history</strong> — whether customers responded to previous marketing campaigns. This served as a key engagement signal for informing renewal likelihood.
+    <strong>Campaign response history</strong>:whether customers responded to previous marketing campaigns. This served as a key engagement signal for informing renewal likelihood.
   </li>
 </ol>
 
